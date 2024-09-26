@@ -9,4 +9,4 @@
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 
 # SCREENSHOT PROGRAM
-(https://github.com/TandiyoDwi/Tugas1_GrafikaKomputer/blob/main/human.png)
+![GakTauIniApaBejir](https://github.com/TandiyoDwi/Tugas1_GrafikaKomputer/blob/main/human.png)
